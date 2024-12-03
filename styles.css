@@ -59,7 +59,7 @@
 
 @media (max-width: 767px) {
     .terminal-version-container {
-        font-size: 12.5px;
+        /* font-size: 12.5px; */
         padding: 25px 30px;
         /* padding: 0 30px; */
     }
