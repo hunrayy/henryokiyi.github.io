@@ -98,20 +98,20 @@ To view a more animated version of my portfolio, type "npm run dev":</span><form
 
 
 // Typewriting effect for form-error
-const typeWriterEffect = (element, text, speed) => {
-    let i = 0;
+// const typeWriterEffect = (element, text, speed) => {
+//     let i = 0;
 
-    const typeCharacter = () => {
-        if (i < text.length) {
-            // element.innerHTML += text[i];
-            element.innerHTML += text[i]
-            // element.textContent += text[i];
+//     const typeCharacter = () => {
+//         if (i < text.length) {
+//             // element.innerHTML += text[i];
+//             element.innerHTML += text[i]
+//             // element.textContent += text[i];
             
 
-            i++;
-            setTimeout(typeCharacter, speed); // Delay for each character
-        }
-    };
+//             i++;
+//             setTimeout(typeCharacter, speed); // Delay for each character
+//         }
+//     };
 
-    typeCharacter();
-};
+//     typeCharacter();
+// };
