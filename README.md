@@ -19,4 +19,4 @@
 - Music
 - Photography
 - History
-<!-- - Gaming -->
+- Gaming
